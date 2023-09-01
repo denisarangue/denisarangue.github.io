@@ -1,0 +1,80 @@
+body {
+    font-family: 'Poppins', sans-serif;   
+}
+h2 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+i {
+    color: #EBEBEC;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+button {
+    font-family: 'Poppins', sans-serif;
+}
+footer { 
+    text-align: center;
+}
+#inicio{
+    padding-top: 15px;
+    background-color: #333646;
+    color: #EBEBEC;
+}
+#redessociales{
+    list-style: none;
+}
+#portfolio{
+    background-color: #252734;
+    color: #EBEBEC;
+}
+#estudios{
+    background-color: #333646;
+    color: #EBEBEC;
+}
+
+#contacto{
+    background-color: #252734;
+    color: #EBEBEC;
+    height: auto;
+    text-align: center;
+}
+.hastag{
+    text-align: center;
+}
+h3{
+    text-align: justify;
+}
+.contacto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.column {
+    margin: 10px;
+}
+.contact-item {
+    display: flex;
+    align-items: center;
+}
+.contact-item i {
+    margin-right: 10px;
+}
+.contact-item a {
+    text-decoration: none;
+    color: #EBEBEC;
+    transition: color 0.3s ease;
+}
+i:hover{
+    color: #FFCA2C;
+}
+a:hover{
+    color: #FFCA2C;
+}
+button:hover{
+    color: #FFCA2C;
+}
+
+
